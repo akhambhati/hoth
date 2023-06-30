@@ -1,2 +1,3 @@
-# mandalore
-Mandalore is my digital sandbox for learning, exploring, and experimenting with technologies that will advance neuroengineering research.
+# Digital workspace for prototyping neurotechnology.
+
+Mandalore is a space for exploring, designing, and engineering new approaches and frameworks for neuroscience research. 
