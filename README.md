@@ -1,3 +1,3 @@
-# Digital workspace for prototyping neurotechnology.
+# Digital workspace for prototyping.
 
-Mandalore is a space for exploring, designing, and engineering new approaches and frameworks for neuroscience research. 
+Hoth is a space for exploring, designing, and engineering methods with a focus on code, configurations, and setups.
