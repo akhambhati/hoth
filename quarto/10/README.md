@@ -14,7 +14,7 @@ on GitHub.
 
 Using GFM as the formatting.
 
-```python
+```{python}
 1+1
 ```
 
